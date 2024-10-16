@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h1 align = "center"> nya /ᐠ - ˕ -マ </h1>
+  <h1 align = "center"> /ᐠ˵- ⩊ -˵マ !!! </h1>
 </p>
 
 
