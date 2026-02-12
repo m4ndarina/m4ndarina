@@ -1,11 +1,10 @@
 <p align = "center">
   <img src = "https://github.com/m4ndarina/miau/blob/main/caminar.gif" width = "450px">
- 
 </p>
 
-# ¡Hola! Soy Sophia.
+<h2 align="center"> # Hi! I'm Sophia. <h2>
 
-**Desarrolladora junior** actualmente viviendo en Ciudad de México.
+<h5 align="center"> **Junior developer** currently living in Mexico City. <h5>
 
 ### Tecnologías que uso
 
