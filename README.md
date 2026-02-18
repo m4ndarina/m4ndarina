@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="src/moon.png" width="300">
-  <img src="src/gif.gif" width="300">
-  <img src="src/moon.png" width="300">
+  <img src="src/6.png" width="350">
+  <img src="src/gif.gif" width="250">
+  <img src="src/6.png" width="350">
 </p>
 
 <br> <br> <br>
@@ -41,7 +41,11 @@
 <div align="center" style="display: inline_block"><br>
   <h2> ⋆˙⟡ Technologies I've used / Tecnologías que he usado ⟡˙⋆ </h2>
   <br>
-  <img src="https://skillicons.dev/icons?i=py,java,php,js,html,css,bootstrap,django,nodejs,express,react,sqlite,mysql,mongodb,vscode,git&perline=4">
+  <p align="center">
+    <img src="src/flower.png" width="90" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=py,java,php,js,html,css,bootstrap,django,nodejs,express,react,sqlite,mysql,mongodb,vscode,git&perline=4" align="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="src/flower.png" width="90" align="middle">
+  </p>
 </div>
 
 <br>
