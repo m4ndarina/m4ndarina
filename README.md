@@ -6,9 +6,13 @@
 </a>
 </div>
 
-<p align = "center">
-  <img src = "src/gif" width = "450px">
+<p align="center">
+  <img src="src/moon.png" width="300">
+  <img src="src/gif.gif" width="300">
+  <img src="src/moon.png" width="300">
 </p>
+
+<br> <br> <br>
 
 <details align="center">
     <summary>
