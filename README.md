@@ -7,7 +7,7 @@
 </div>
 
 <p align = "center">
-  <img src = "https://github.com/m4ndarina/miau/blob/main/caminar.gif" width = "450px">
+  <img src = "src/gif" width = "450px">
 </p>
 
 <details align="center">
