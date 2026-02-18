@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="src/6.png" width="350">
-  <img src="src/gif.gif" width="250">
-  <img src="src/6.png" width="350">
+  <img src="src/6.png" width="300">
+  <img src="src/gif.gif" width="200">
+  <img src="src/6.png" width="300">
 </p>
 
 <br> <br> <br>
